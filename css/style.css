@@ -1,0 +1,48 @@
+.img-card-fit {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.img-cont {
+    height: 200px;
+    overflow: hidden;
+    background-color: beige;
+}
+
+.card-content{
+    height: 150px;
+    overflow: auto;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+  }
+
+.checked{
+    color: orange;
+}
+
+.offcanvas-top{
+    height: fit-content;
+}
+
+.fa_custom{
+    color:white
+}
+
+.movie-title{
+    color:white;
+    font-weight: bold;
+    margin-bottom: -2%;
+    font-size:125%;
+}
+
+.movie-tagline{
+    color:gray;
+    font-style: italic;
+}
+
+.dropdown-center{
+    float: right;
+}
